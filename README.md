@@ -9,3 +9,7 @@ Hacer un programa que guarde datos de clientes de un banco, los almaceneen cola,
 ![Captura de pantalla (371) png](https://user-images.githubusercontent.com/71051834/97493063-0483cf00-192a-11eb-9512-543c7552e2cf.jpg)
 
 
+
+![Captura de pantalla (372) png](https://user-images.githubusercontent.com/71051834/97493498-a4d9f380-192a-11eb-9d2d-0da081c1dae9.jpg)
+
+
